@@ -3,6 +3,10 @@
 -configure react app
 
 - install tailwind and configure
+  -Header
+
+  -Login Form
+  -signup form
 
 #Features:
 -Login/Sign up
