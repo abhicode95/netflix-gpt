@@ -4,9 +4,11 @@
 
 - install tailwind and configure
   -Header
-
+  -Routing
   -Login Form
   -signup form
+  -form validation
+  -useRef Hook
 
 #Features:
 -Login/Sign up
